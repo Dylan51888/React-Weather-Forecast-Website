@@ -1,10 +1,10 @@
 
 
-React Weather Forecast Website
+###React Weather Forecast Website
 
 A simple weather forecast website built using React, allowing users to search for any city and view the 7-day weather forecast with clean and responsive design.
 
-Table of Contents
+###Table of Contents
 
 	•	Features
 	•	Demo
@@ -14,19 +14,19 @@ Table of Contents
 	•	Contributing
 	•	License
 
-Features
+###Features
 
 	•	7-Day Forecast: Retrieve a 7-day weather forecast for any city.
 	•	Real-Time Weather Data: Fetches data from the Open-Meteo API to provide up-to-date weather information.
 	•	Responsive Design: Optimized for both mobile and desktop screens.
 	•	User-Friendly Interface: Simple input form to search for cities and view weather details, including icons for weather conditions like sunny, cloudy, or rainy days.
 
-Demo
+###Demo
 
 Check out the live demo of the website: https://dylan51888.github.io/React-Weather-Forecast-Website/
 React Weather Forecast Website
 
-Installation
+###Installation
 
 To set up the project locally, follow these steps:
 
@@ -57,19 +57,19 @@ Usage
 	•	Enter the name of any city in the search bar.
 	•	View the 7-day weather forecast, including temperature, weather conditions, and related icons.
 
-Technologies Used
+###Technologies Used
 
 	•	React: JavaScript library for building the user interface.
 	•	Axios: For fetching weather data from the API.
 	•	CSS: For styling and responsiveness.
 	•	Open-Meteo API: Source for real-time weather data.
 
-Contributing
+###Contributing
 
 Feel free to fork this repository and submit pull requests to improve the project.
 
-License
+###License
 
 This project is licensed under the MIT License.
 
-你可以根据项目的具体情况调整内容，但这个模板已涵盖了基本的 README 结构并强调了界面的展示。
+
